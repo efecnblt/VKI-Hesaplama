@@ -36,10 +36,13 @@ class ResultPage extends StatelessWidget {
           )),
           Expanded(
               flex: 10,
+
               child: ReusableCard(
+
                 cardChild: Column(
                   mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                   children: <Widget>[
+
                     Text(
                       bodyType,
                       style: kBodyTypeTextStyle,
@@ -48,11 +51,16 @@ class ResultPage extends StatelessWidget {
                       bmiResult.toStringAsFixed(1),
                       style: kLargeNumberStyle,
                     ),
-                    Text(
-                      textAlign: TextAlign.center,
-                      description,
-                      style: ktextStyle,
-                    ),
+
+                    Container(
+                      padding: EdgeInsets.only(left: 10, right: 10),
+                      child: Text(
+
+                        textAlign: TextAlign.center,
+                        description,
+                        style: kDescriptionTextStyle,
+                      ),
+                    )
                   ],
                 ),
                 colour: first_colour,

@@ -34,3 +34,5 @@ const kResultTextStyle =TextStyle(
   fontWeight: FontWeight.bold,
   color: fourth_colour,
 );
+const kDescriptionTextStyle =
+TextStyle(color: third_colour, fontSize: 18, fontWeight: FontWeight.bold,);
