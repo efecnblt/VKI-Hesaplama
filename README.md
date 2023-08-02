@@ -1,7 +1,7 @@
 # bmi_calculate
 
 A new Flutter project.
-
+![vki-calculate](https://github.com/efecnblt/VKI-Hesaplama/blob/main/vki-calculator.mp4)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
