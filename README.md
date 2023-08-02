@@ -1,9 +1,9 @@
 # bmi_calculate
 
 A new Flutter project.
-![vki-calculate](https://github.com/efecnblt/VKI-Hesaplama/blob/main/vki_calculator.gif?raw=true)
-## Getting Started
 
+## Getting Started
+![vki-calculate](https://github.com/efecnblt/VKI-Hesaplama/blob/main/vki_calculator.gif?raw=true)
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
